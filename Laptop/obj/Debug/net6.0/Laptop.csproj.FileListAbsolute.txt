@@ -1,0 +1,15 @@
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.csproj.AssemblyReference.cache
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.AssemblyInfoInputs.cache
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.AssemblyInfo.cs
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Laptop\Laptop\bin\Debug\net6.0\Laptop.exe
+D:\Visual Studio\Laptop\Laptop\bin\Debug\net6.0\Laptop.deps.json
+D:\Visual Studio\Laptop\Laptop\bin\Debug\net6.0\Laptop.runtimeconfig.json
+D:\Visual Studio\Laptop\Laptop\bin\Debug\net6.0\Laptop.dll
+D:\Visual Studio\Laptop\Laptop\bin\Debug\net6.0\Laptop.pdb
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.dll
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\refint\Laptop.dll
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.pdb
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\Laptop.genruntimeconfig.cache
+D:\Visual Studio\Laptop\Laptop\obj\Debug\net6.0\ref\Laptop.dll
